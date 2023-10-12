@@ -15,4 +15,5 @@ help of the three.js library).
 6. Make sure your implementation neither exposes memory leaks nor overutilizes CPU on
 repeated usage.
 For back-end implementation we recommend using node.js (although you may choose any other
-alternative).
+alternative)
+
