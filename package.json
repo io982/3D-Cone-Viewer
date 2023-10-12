@@ -1,0 +1,24 @@
+{
+  "name": "3d-cone-viewer",
+  "version": "1.0.0",
+  "description": "test task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/io982/3D-Cone-Viewer.git"
+  },
+  "author": "io982",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/io982/3D-Cone-Viewer/issues"
+  },
+  "homepage": "https://github.com/io982/3D-Cone-Viewer#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "three": "^0.157.0"
+  }
+}
